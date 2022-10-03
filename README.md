@@ -16,6 +16,9 @@ Angela Yu
 
 ## Features of the map
 
+The map supports maps of 19 different locations. Maps can be selected using the drop down menu.
+![select map](https://user-images.githubusercontent.com/109006994/193500005-7b53796a-0656-449d-a937-8aa443799860.png)
+
 **Path Finding and Route Direction System**
 
 ![path finding and direction screenshot](https://user-images.githubusercontent.com/109006994/193185113-7f9417a5-4546-45e1-b837-dc23156bd57f.png)
