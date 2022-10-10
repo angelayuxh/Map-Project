@@ -38,3 +38,16 @@ The path found will be highlighted in light purple. Use "Clear Result" to remove
 When a path is found, the Route Direction System on the bottom right of the map will display the travel directions and instructions. 
 
 ![direction](https://user-images.githubusercontent.com/109006994/193185500-dcbad71f-681c-40a5-aeea-391e3d88bf4f.png)
+
+### Closable Search Window
+A closable search window is used to keep the UI uncluttered while implementing the path-finding function. 
+
+* The user can keep changing the destination and start until the most ideal one is selected. 
+
+* the searching panel can be hidden anytime to get a broader view of the map
+
+    * The hide/display button is at the leftmost panel of the UI
+
+* User can choose to clear the previous path before conducting a new search. 
+![select](https://user-images.githubusercontent.com/100390810/194931273-c0809d61-51b6-4c82-a50d-d8a637ecf772.gif)
+
