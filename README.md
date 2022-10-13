@@ -51,3 +51,42 @@ A closable search window is used to keep the UI uncluttered while implementing t
 * User can choose to clear the previous path before conducting a new search. 
 ![select](https://user-images.githubusercontent.com/100390810/194931273-c0809d61-51b6-4c82-a50d-d8a637ecf772.gif)
 
+### Point of Interest (POI) Display
+
+POIs are searchable features, the icons of all POIs matching the searched key word will show up upon hitting <Enter> in the search bar. The search function allows partial name search.
+
+There are four displaying modes for POIs, which allows the user to customize the UI based on their needs.
+
+* POI display can be completely turned off
+* Show one POI from each category in the user's vincinity (default)
+* Show all POIs in the user's vincinity
+* Show all POIs on the current map
+
+Default display:
+
+![image](https://user-images.githubusercontent.com/71286356/195718267-3d6ec00b-1820-4388-85a3-524d549b4d3d.png) 
+
+
+Show all nearby POI:
+
+![image](https://user-images.githubusercontent.com/71286356/195718285-851acc77-a318-4dbc-aa9d-4cb2aec615e3.png) 
+
+
+Detailed information of POIs are available upon clicking:
+
+![image](https://user-images.githubusercontent.com/71286356/195718398-e2e6300a-fe6c-41a0-93a5-9fa2de888b3d.png) 
+
+Clicking a POI will result in surrounding POIs of the same type to show up on the map.
+For example: The map will show all surrounding restaurants if the user expands the details on one of them.
+
+![image](https://user-images.githubusercontent.com/71286356/195720817-ea5fe445-89df-4bc9-bbed-e052e0efaf6f.png)
+
+![image](https://user-images.githubusercontent.com/71286356/195721463-3b2f8356-38cc-48f9-9e5a-93d1ec85d754.png)
+
+
+
+
+
+
+
+
