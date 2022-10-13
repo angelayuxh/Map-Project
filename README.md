@@ -71,7 +71,7 @@ Show all nearby POI:
 
 ![image](https://user-images.githubusercontent.com/71286356/195718285-851acc77-a318-4dbc-aa9d-4cb2aec615e3.png) 
 
-
+#### Detail expansion on POIs
 Detailed information of POIs are available upon clicking:
 
 ![image](https://user-images.githubusercontent.com/71286356/195718398-e2e6300a-fe6c-41a0-93a5-9fa2de888b3d.png) 
