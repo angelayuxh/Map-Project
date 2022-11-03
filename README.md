@@ -5,7 +5,7 @@ The map is developed in C++ using ezgl and GTK, built based on OpenStreetMap dat
 
 ## Disclaimer of the code
 
-This project is an academic project for ECE297, University of Toronto. Due to Academic Integrity concerns, we cannot share the full version of the code to prevent students from copying.
+This project is an academic project for ECE297, University of Toronto. Due to Academic Integrity concerns, we are unable to share our code in oreder to prevent students from copying.
 
 ## Contributors
 Zhichen Lei
